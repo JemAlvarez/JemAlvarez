@@ -16,17 +16,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Swift+app+developer;Web+developer;Game+developer;Three+years+of+experience)](https://git.io/typing-svg)
 
 **Currently working with:**<br>
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/swift.svg" />
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/xcode.svg" />
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/ios.svg" />
+<img width="50" src="https://cdn.iconscout.com/icon/free/png-256/swift-13-722653.png" />
+<img width="50" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" />
+<img width="50" src="https://freepngimg.com/save/68525-apple-network-icons-ios-computer-iphone-graphics/1140x1140" />
 
 **Previously worked with:**<br>
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/css3.svg" />
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/react.svg" />
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
-<img width="30" src="https://unpkg.com/simple-icons@v5/icons/nodedotjs.svg" />
+<img width="50" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
+<img width="50" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" />
+<img width="50" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
+<img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+<img width="50" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
+<img width="50" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
 
 ---
 
