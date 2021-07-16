@@ -70,6 +70,17 @@ Classic card memory game with different difficulties inspired by the SuperSmashB
 
 <img width="200" src="./MemoryGame/01.PNG" /><img width="200" src="./MemoryGame/02.PNG" /><img width="200" src="./MemoryGame/03.PNG" /><img width="200" src="./MemoryGame/04.PNG" />
 
+### Covid Tracker App
+```
+Worldwide covid data and specif countries and states
+```
+* SwiftUI 2
+* MVVM
+* API Requests
+* WebKit
+
+<img width="200" src="./Covid/01.PNG" /><img width="200" src="./Covid/02.PNG" /><img width="200" src="./Covid/03.PNG" /><img width="200" src="./Covid/04.PNG" />
+
 ---
 
 **📈Stats:**
