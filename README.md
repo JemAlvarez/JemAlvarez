@@ -33,7 +33,7 @@
 
 # Recent iOS Projects
 
-### Notes App
+### [Notes App](https://github.com/JemAlvarez/NotesApp_SwiftUI_iOS14)
 ```
 Notes app using SwiftUI 2 and CoreData
 ```
@@ -47,7 +47,7 @@ Notes app using SwiftUI 2 and CoreData
 
 <img width="200" src="./Notes/01.PNG" /><img width="200" src="./Notes/02.PNG" /><img width="200" src="./Notes/03.PNG" /><img width="200" src="./Notes/04.PNG" />
 
-### Weather App
+### [Weather App](https://github.com/JemAlvarez/WeatherApp_SwiftUI_iOS14)
 ```
 Weather app using SwiftUI 2, CoreLocation & CoreData
 ```
@@ -60,7 +60,7 @@ Weather app using SwiftUI 2, CoreLocation & CoreData
 
 <img width="200" src="./Weather/01.PNG" /><img width="200" src="./Weather/02.PNG" /><img width="200" src="./Weather/03.PNG" /><img width="200" src="./Weather/04.PNG" />
 
-### Card Memory Game
+### [Card Memory Game](https://github.com/JemAlvarez/MemoryCardGame_SwiftUI_iOS14)
 ```
 Classic card memory game with different difficulties inspired by the SuperSmashBros game
 ```
@@ -70,7 +70,7 @@ Classic card memory game with different difficulties inspired by the SuperSmashB
 
 <img width="200" src="./MemoryGame/01.PNG" /><img width="200" src="./MemoryGame/02.PNG" /><img width="200" src="./MemoryGame/03.PNG" /><img width="200" src="./MemoryGame/04.PNG" />
 
-### Covid Tracker App
+### [Covid Tracker](https://github.com/JemAlvarez/COVID_Tracker_SwiftUI_iOS14)
 ```
 Worldwide covid data and specif countries and states
 ```
