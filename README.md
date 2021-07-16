@@ -26,6 +26,8 @@
 <img width="30" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
 <img width="30" src="https://unpkg.com/simple-icons@v5/icons/nodedotjs.svg" />
 
+**Stats:**
+
 ![Jem SackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13363630&theme=dark&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=JemAlvarez&theme=nord)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JemAlvarez&theme=prussian)
