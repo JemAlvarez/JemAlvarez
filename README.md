@@ -17,6 +17,7 @@
 
 **Currently working with:**<br>
 <img width="50" src="https://cdn.iconscout.com/icon/free/png-256/swift-13-722653.png" />
+<img width="50" src="https://img.icons8.com/color/48/000000/swiftui.png" />
 <img width="50" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" />
 <img width="50" src="https://freepngimg.com/save/68525-apple-network-icons-ios-computer-iphone-graphics/1140x1140" />
 
@@ -27,6 +28,47 @@
 <img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 <img width="50" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
 <img width="50" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
+
+---
+
+# Recent iOS Projects
+
+### Notes App
+```
+Notes app using SwiftUI 2 and CoreData
+```
+* SwiftUI 2
+* MVVM
+* CoreData
+* UserDefaults
+* WatchOS
+* WidgetKit
+* LocalAuthentication
+
+<img width="200" src="./Notes/01.PNG" /><img width="200" src="./Notes/02.PNG" /><img width="200" src="./Notes/03.PNG" /><img width="200" src="./Notes/04.PNG" />
+
+### Weather App
+```
+Weather app using SwiftUI 2, CoreLocation & CoreData
+```
+* SwiftUI 2
+* MVVM
+* CoreData
+* UserDefaults
+* WidgetKit
+* CoreLocation
+
+<img width="200" src="./Weather/01.PNG" /><img width="200" src="./Weather/02.PNG" /><img width="200" src="./Weather/03.PNG" /><img width="200" src="./Weather/04.PNG" />
+
+### Card Memory Game
+```
+Classic card memory game with different difficulties inspired by the SuperSmashBros game
+```
+* SwiftUI 2
+* MVVM
+* CustomAnimations
+
+<img width="200" src="./MemoryGame/01.PNG" /><img width="200" src="./MemoryGame/02.PNG" /><img width="200" src="./MemoryGame/03.PNG" /><img width="200" src="./MemoryGame/04.PNG" />
 
 ---
 
