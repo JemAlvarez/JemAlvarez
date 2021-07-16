@@ -1,9 +1,9 @@
 ![Header](/header.png)
 
-[![Twitter](https://img.shields.io/badge/twitter-%20-blue?style=social&logo=twitter)](https://www.twitter.com)
-[![Github](https://img.shields.io/badge/Github-%20-blue?style=social&logo=github)](https://www.github.com)
+[![Twitter](https://img.shields.io/badge/twitter-%20-blue?style=social&logo=twitter)](https://twitter.com/official_JemAl)
+[![Github](https://img.shields.io/badge/Github-%20-blue?style=social&logo=github)](https://github.com/JemAlvarez)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%20-blue?style=social&logo=stackoverflow)](https://stackoverflow.com/users/13363630/bluestarxd)
-[![LinkedIn](https://img.shields.io/badge/Stackoverflow-%20-blue?style=social&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/Stackoverflow-%20-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jem-alvarez-046962164/)
 [![GoogleChrome](https://img.shields.io/badge/website-%20-blue?style=social&logo=googlechrome)](https://www.jemalvarez.com)
 ![Email](https://img.shields.io/badge/Email-contact%40jemalvarez.com%20-blue)
 
