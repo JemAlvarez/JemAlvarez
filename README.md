@@ -33,6 +33,16 @@
 
 # Recent iOS Projects
 
+### [Pokedex App](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
+```
+Pokdex app for iOS, all pokemon, moves, items information
+```
+* SwiftUI 3
+* MVVM
+* Swift concurrency (asyn/await)
+
+<img width="200" src="./Pokedex/01.png" /><img width="200" src="./Pokedex/02.png" /><img width="200" src="./Pokedex/03.png" /><img width="200" src="./Pokedex/04.png" /><img width="200" src="./Pokedex/05.png" />
+
 ### [Notes App](https://github.com/JemAlvarez/NotesApp_SwiftUI_iOS14)
 ```
 Notes app using SwiftUI 2 and CoreData
