@@ -44,7 +44,7 @@ Screenly is a highly customizable screenshot image generator.
 * In-App Purchases
 * AppStore Connect
 
-<img width="200" src="./Screenly/01.png" /><img width="200" src="./Pokedex/02.png" /><img width="200" src="./Pokedex/03.png" /><img width="200" src="./Pokedex/04.png" /><img width="200" src="./Pokedex/05.png" />
+<img width="200" src="./Screenly/01.png" /><img width="200" src="./Screenly/02.png" /><img width="200" src="./Screenly/03.png" /><img width="200" src="./Screenly/04.png" /><img width="200" src="./Screenly/05.png" />
 
 ### [Pokedex App](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
 ```
