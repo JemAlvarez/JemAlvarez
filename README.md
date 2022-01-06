@@ -35,7 +35,7 @@
 
 ### [Screenly - Mockup Screenshots](https://apps.apple.com/us/app/screenly-mockup-screenshots/id1592798429)
 ```
-Screenly is a highly customizable screenshot image generator.
+Screenly is a highly customizable screenshot mockup image generator
 ```
 * SwiftUI 3
 * UIKit
@@ -43,6 +43,8 @@ Screenly is a highly customizable screenshot image generator.
 * Ads
 * In-App Purchases
 * AppStore Connect
+* Reach top 30 in charts
+* 4.8⭐ - 40 Ratings - Worldwide
 
 <img width="200" src="./Screenly/01.png" /><img width="200" src="./Screenly/03.png" /><img width="200" src="./Screenly/04.png" /><img width="200" src="./Screenly/05.png" />
 
