@@ -58,7 +58,7 @@ Drawing app using PencilKit for iOS and IpadOS
 * UIGestures
 * PencilKit
 
-<img width="200" src="./Drawing/01.png" /><img width="200" src="./Drawing/02.png" />
+<img width="200" src="./Drawing/01.PNG" /><img width="200" src="./Drawing/02.PNG" />
 
 ### [Pokedex App](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
 ```
