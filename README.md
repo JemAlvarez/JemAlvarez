@@ -83,8 +83,6 @@ Weather app using SwiftUI 2, CoreLocation & CoreData
 * WidgetKit
 * CoreLocation
 
-<img width="200" src="./Weather/01.PNG" /><img width="200" src="./Weather/02.PNG" /><img width="200" src="./Weather/03.PNG" /><img width="200" src="./Weather/04.PNG" />
-
 ### [Card Memory Game](https://github.com/JemAlvarez/MemoryCardGame_SwiftUI_iOS14)
 ```
 Classic card memory game with different difficulties inspired by the SuperSmashBros game
@@ -105,6 +103,14 @@ Worldwide covid data and specif countries and states
 * WebKit
 
 <img width="200" src="./Covid/01.PNG" /><img width="200" src="./Covid/02.PNG" /><img width="200" src="./Covid/03.PNG" /><img width="200" src="./Covid/04.PNG" />
+
+### [Calculator App](https://github.com/JemAlvarez/Calculator_iOS13)
+```
+Calculator app using SwiftUI
+```
+* SwiftUI
+
+<img width="200" src="./Calculator/01.PNG" />
 
 ---
 
