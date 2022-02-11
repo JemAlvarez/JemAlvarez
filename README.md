@@ -48,6 +48,18 @@ Screenly is a highly customizable screenshot mockup image generator
 
 <img width="200" src="./Screenly/01.png" /><img width="200" src="./Screenly/03.png" /><img width="200" src="./Screenly/04.png" /><img width="200" src="./Screenly/05.png" />
 
+### [Sketchoo](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
+```
+Drawing app using PencilKit for iOS and IpadOS
+```
+* SwiftUI 3
+* UIKit
+* MVVM
+* UIGestures
+* PencilKit
+
+<img width="200" src="./Drawing/01.png" /><img width="200" src="./Drawing/02.png" />
+
 ### [Pokedex App](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
 ```
 Pokdex app for iOS, all pokemon, moves, items information
@@ -103,6 +115,14 @@ Worldwide covid data and specif countries and states
 * WebKit
 
 <img width="200" src="./Covid/01.PNG" /><img width="200" src="./Covid/02.PNG" /><img width="200" src="./Covid/03.PNG" /><img width="200" src="./Covid/04.PNG" />
+
+### [Movies App For iOS](https://github.com/JemAlvarez/iOS-Movies)
+```
+Movies app using SwiftUI for iOS
+```
+* SwiftUI
+
+<img width="200" src="./Movies_iOS/01.PNG" /><img width="200" src="./Movies_iOS/02.PNG" /><img width="200" src="./Movies_iOS/03.PNG" /><img width="200" src="./Movies_iOS/04.PNG" />
 
 ### [Calculator App](https://github.com/JemAlvarez/Calculator_iOS13)
 ```
