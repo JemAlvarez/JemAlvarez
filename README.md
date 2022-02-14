@@ -58,7 +58,7 @@ Movies app for information from a database for MacOS
 * API
 * Custom Navigation Router
 
-<img height="450" src="./Movies_MacOS/01.png" />
+<img height="420" src="./Movies_MacOS/01.png" />
 
 ### [Sketchoo](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
 ```
@@ -70,7 +70,7 @@ Drawing app using PencilKit for iOS and IpadOS
 * UIGestures
 * PencilKit
 
-<img width="200" src="./Drawing/01.PNG" /><img height="450" src="./Drawing/02.PNG" />
+<img width="200" src="./Drawing/01.PNG" /><img height="420" src="./Drawing/02.PNG" />
 
 ### [Pokedex App](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
 ```
