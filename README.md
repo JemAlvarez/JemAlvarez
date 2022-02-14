@@ -48,7 +48,7 @@ Screenly is a highly customizable screenshot mockup image generator
 
 <img width="200" src="./Screenly/01.png" /><img width="200" src="./Screenly/03.png" /><img width="200" src="./Screenly/04.png" /><img width="200" src="./Screenly/05.png" />
 
-### [Movieholic](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
+### [Movieholic](https://github.com/JemAlvarez/Movieholic)
 ```
 Movies app for information from a database for MacOS
 ```
