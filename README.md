@@ -37,16 +37,29 @@
 ```
 Screenly is a highly customizable screenshot mockup image generator
 ```
-* SwiftUI 3
+* SwiftUI
 * UIKit
 * MVVM
 * Ads
 * In-App Purchases
-* AppStore Connect
 * Reach top 30 in charts
-* 4.8⭐ - 40 Ratings - Worldwide
+* 4.9⭐ - 50 Ratings - Worldwide
 
 <img width="200" src="./Screenly/01.png" /><img width="200" src="./Screenly/03.png" /><img width="200" src="./Screenly/04.png" /><img width="200" src="./Screenly/05.png" />
+
+### [Gyfter – Occasion Reminders](https://apps.apple.com/us/app/id1615132443)
+```
+Gyfter helps you rember those special occasions you know you shoudln't forget
+```
+* SwiftUI
+* UIKit
+* MVVM
+* In-App Purchases
+* CloudKit + CoreData
+* UserNotifications
+* WidgetKit
+
+<img width="200" src="./Screenly/01.png" />
 
 ### [Movieholic](https://github.com/JemAlvarez/Movieholic)
 ```
