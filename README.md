@@ -85,62 +85,6 @@ Drawing app using PencilKit for iOS and IpadOS
 
 <img width="200" src="./Drawing/01.PNG" /><img height="420" src="./Drawing/02.PNG" />
 
-### [Pokedex App](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
-```
-Pokdex app for iOS, all pokemon, moves, items information
-```
-* SwiftUI 3
-* MVVM
-* Swift concurrency (asyn/await)
-
-<img width="200" src="./Pokedex/01.png" /><img width="200" src="./Pokedex/02.png" /><img width="200" src="./Pokedex/03.png" /><img width="200" src="./Pokedex/05.png" />
-
-### [Notes App](https://github.com/JemAlvarez/NotesApp_SwiftUI_iOS14)
-```
-Notes app using SwiftUI 2 and CoreData
-```
-* SwiftUI 2
-* MVVM
-* CoreData
-* UserDefaults
-* WatchOS
-* WidgetKit
-* LocalAuthentication
-
-<img width="200" src="./Notes/01.PNG" /><img width="200" src="./Notes/02.PNG" /><img width="200" src="./Notes/03.PNG" /><img width="200" src="./Notes/04.PNG" />
-
-### [Weather App](https://github.com/JemAlvarez/WeatherApp_SwiftUI_iOS14)
-```
-Weather app using SwiftUI 2, CoreLocation & CoreData
-```
-* SwiftUI 2
-* MVVM
-* CoreData
-* UserDefaults
-* WidgetKit
-* CoreLocation
-
-### [Card Memory Game](https://github.com/JemAlvarez/MemoryCardGame_SwiftUI_iOS14)
-```
-Classic card memory game with different difficulties inspired by the SuperSmashBros game
-```
-* SwiftUI 2
-* MVVM
-* CustomAnimations
-
-<img width="200" src="./MemoryGame/01.PNG" /><img width="200" src="./MemoryGame/02.PNG" /><img width="200" src="./MemoryGame/03.PNG" /><img width="200" src="./MemoryGame/04.PNG" />
-
-### [Covid Tracker](https://github.com/JemAlvarez/COVID_Tracker_SwiftUI_iOS14)
-```
-Worldwide covid data and specif countries and states
-```
-* SwiftUI 2
-* MVVM
-* API Requests
-* WebKit
-
-<img width="200" src="./Covid/01.PNG" /><img width="200" src="./Covid/02.PNG" /><img width="200" src="./Covid/03.PNG" /><img width="200" src="./Covid/04.PNG" />
-
 ### [Movies App For iOS](https://github.com/JemAlvarez/iOS-Movies)
 ```
 Movies app using SwiftUI for iOS
@@ -148,14 +92,6 @@ Movies app using SwiftUI for iOS
 * SwiftUI
 
 <img width="200" src="./Movies_iOS/01.PNG" /><img width="200" src="./Movies_iOS/02.PNG" /><img width="200" src="./Movies_iOS/03.PNG" /><img width="200" src="./Movies_iOS/04.PNG" />
-
-### [Calculator App](https://github.com/JemAlvarez/Calculator_iOS13)
-```
-Calculator app using SwiftUI
-```
-* SwiftUI
-
-<img width="200" src="./Calculator/01.PNG" />
 
 ---
 
