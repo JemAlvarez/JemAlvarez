@@ -45,7 +45,7 @@ Screenly is a highly customizable screenshot mockup image generator
 * Reach top 30 in charts
 * 4.9⭐ - 50 Ratings - Worldwide
 
-<img width="200" src="./Screenly/01.png" /><img width="200" src="./Screenly/03.png" /><img width="200" src="./Screenly/04.png" /><img width="200" src="./Screenly/05.png" />
+<img height="420" src="./Screenly/06.png" />
 
 ### [Gyfter – Occasion Reminders](https://apps.apple.com/us/app/id1615132443)
 ```
@@ -58,8 +58,9 @@ Gyfter helps you rember those special occasions you know you shoudln't forget
 * CloudKit + CoreData
 * UserNotifications
 * WidgetKit
+* WatchOS
 
-<img width="200" src="./Screenly/01.png" />
+<img height="420" src="./Gyfter/01.png" />
 
 ### [Movieholic](https://github.com/JemAlvarez/Movieholic)
 ```
@@ -83,7 +84,7 @@ Drawing app using PencilKit for iOS and IpadOS
 * UIGestures
 * PencilKit
 
-<img width="200" src="./Drawing/01.PNG" /><img height="420" src="./Drawing/02.PNG" />
+<img height="420" src="./Drawing/01.PNG" /><img height="420" src="./Drawing/02.PNG" />
 
 ### [Movies App For iOS](https://github.com/JemAlvarez/iOS-Movies)
 ```
@@ -91,7 +92,7 @@ Movies app using SwiftUI for iOS
 ```
 * SwiftUI
 
-<img width="200" src="./Movies_iOS/01.PNG" /><img width="200" src="./Movies_iOS/02.PNG" /><img width="200" src="./Movies_iOS/03.PNG" /><img width="200" src="./Movies_iOS/04.PNG" />
+<img height="420" src="./Movies_iOS/01.PNG" /><img height="420" src="./Movies_iOS/02.PNG" /><img height="420" src="./Movies_iOS/03.PNG" /><img height="420" src="./Movies_iOS/04.PNG" />
 
 ---
 
