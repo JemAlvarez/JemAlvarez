@@ -22,7 +22,7 @@
 <img width="50" src="https://freepngimg.com/save/68525-apple-network-icons-ios-computer-iphone-graphics/1140x1140" />
 
 **Previously worked with:**<br>
-<img width="50" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
+<img width="50" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" />
 <img width="50" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" />
 <img width="50" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
 <img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
