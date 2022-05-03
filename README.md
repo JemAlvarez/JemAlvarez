@@ -74,7 +74,7 @@ Movies app for information from a database for MacOS
 
 <img height="420" src="./Movies_MacOS/01.png" />
 
-### [Sketchoo](https://github.com/JemAlvarez/Pokedex_SwiftUI_iOS15)
+### [Sketchoo](https://github.com/JemAlvarez/Sketchoo)
 ```
 Drawing app using PencilKit for iOS and IpadOS
 ```
