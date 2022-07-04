@@ -13,7 +13,7 @@
 
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Swift+app+developer;Web+developer;Game+developer;Three+years+of+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+developer;Web+developer;Game+developer;Three+years+of+experience)](https://git.io/typing-svg)
 
 **Currently working with:**<br>
 <img width="50" src="https://cdn.iconscout.com/icon/free/png-256/swift-13-722653.png" />
