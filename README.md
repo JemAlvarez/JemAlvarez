@@ -7,10 +7,6 @@
 [![GoogleChrome](https://img.shields.io/badge/website-%20-blue?style=social&logo=googlechrome)](https://www.jemalvarez.com)
 ![Email](https://img.shields.io/badge/Email-contact%40jemalvarez.com%20-blue)
 
-![Years Badge](https://badges.pufler.dev/years/JemAlvarez)
-![Visits Badge](https://badges.pufler.dev/visits/JemAlvarez/JemAlvarez)
-![Repos Badge](https://badges.pufler.dev/repos/JemAlvarez)
-
 #
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+developer;Web+developer;Game+developer;Three+years+of+experience)](https://git.io/typing-svg)
